@@ -1,0 +1,9 @@
+{
+	"Name": "SmokeGrenade",
+	"Authors": ["foolhen"],
+	"Description": "none",
+	"URL": "none",
+	"Version":  "0.1",
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
